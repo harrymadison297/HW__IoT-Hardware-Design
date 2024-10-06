@@ -16,3 +16,5 @@ Design guidelines:
 1. Using AMS1117-3.3V LDO for step down voltage regulator
 2. Using module ESP32S3
 3. Using 2 buttons SMD for boot and reset modules
+
+### Light Sensor Design
