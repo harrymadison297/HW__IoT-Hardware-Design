@@ -18,3 +18,12 @@ Design guidelines:
 3. Using 2 buttons SMD for boot and reset modules
 
 ### Light Sensor Design
+
+
+### Note
+Git command:
+1. `git add .`
+2. `git commit -m MESSAGE`
+3. `git pull`
+4. `git push`
+
